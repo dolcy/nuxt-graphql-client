@@ -5,7 +5,7 @@ category: Getting Started
 position: 4
 ---
 
-`nuxt-graphql-client` can be configured via [runtime configuration](https://v3.nuxtjs.org/docs/usage/runtime-config) by using either the `gql` or `graphql-client` key.
+`nuxt-graphql-client` can be configured via [runtime configuration](https://v3.nuxtjs.org/migration/runtime-config#runtime-config) by using either the `gql` or `graphql-client` key.
 
 ## Options
 
